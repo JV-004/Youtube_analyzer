@@ -53,6 +53,3 @@ streamlit run src/app.py
 * [pytubefix](https://pypi.org/project/pytubefix/)
 * [ffmpeg-python](https://github.com/kkroening/ffmpeg-python)
 * [google-generativeai](https://ai.google.dev/)
-
-Se quiser, posso já te entregar esse `README.md` em um arquivo `.md` para você só subir no repositório. Deseja?
-```
