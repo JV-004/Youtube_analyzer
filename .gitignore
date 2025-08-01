@@ -1,0 +1,22 @@
+# Arquivos de ambiente
+.env
+tools/.env
+
+# Cache de Python
+__pycache__/
+*.pyc
+
+# Diretórios de saída e temporários
+output/
+temp_files/
+
+# Diretórios de ambientes virtuais
+venv/
+.env/
+
+# Arquivos de log
+*.log
+
+# Configurações de IDEs
+.vscode/
+.idea/
